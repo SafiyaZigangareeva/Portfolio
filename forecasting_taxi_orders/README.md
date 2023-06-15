@@ -32,3 +32,8 @@
  
 Лучший результат у модели LinearRegression, ее результат на тестовых данных RMSE 34.47
 На графиках сравнения предсказаний модели и реальных данных видно, что модель достаточно хорошо описывает данные, сглаживая пики.
+
+## Навыки и инструменты:
+
+ - `Pandas`, `NumPy`, `Matplotlib`, `Scikit-learn`, `Statsmodels`, `LightGBM`    
+ - LinearRegression, RandomForestRegressor, LGBMRegressor, GridSearchCV

@@ -52,3 +52,8 @@
  - sMAPE для предсказания средних значений целевых признаков на тренировочных данных составило 8.72
  - sMAPE лучшей модели - MultiOutputRegressor(RandomForestRegressor()) 5.85 на тренировочной выборке.
  - sMAPE лучшей модели на тестовых данных 8.74.
+
+## Навыки и инструменты:
+
+ - `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`, `Scikit-learn` 
+ - RegressorChain, MultiOutputRegressor, make_scorer
