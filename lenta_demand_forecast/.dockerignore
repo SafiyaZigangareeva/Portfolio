@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+.gitignore
+.git
+README.md
+.vscode/
+.conda/
+.draft/
+.catboost_info/

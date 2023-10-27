@@ -1,0 +1,11 @@
+pandas == 1.5.3
+etna == 2.2.0
+catboost == 1.2.2
+xgboost == 2.0.0
+lightgbm == 3.3.5
+numpy == 1.25.2
+optuna == 3.3.0
+tqdm == 4.65.0
+mlforecast == 0.10.0
+window_ops == 0.0.14
+prophet == 1.1.4
